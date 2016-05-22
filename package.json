@@ -1,0 +1,14 @@
+{
+    "name": "adgatherer",
+    "version": "0.0.1",
+    "description": "A minimal Electron application",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron main.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jfalenczyk/AdGatherer.git"
+    },
+    "license": "UNLICENSED"
+}
